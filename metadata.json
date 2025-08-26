@@ -1,0 +1,7 @@
+{
+  "name": "AI Fashion Stylist 5236",
+  "description": "Capture your look, and get an instant AI-powered fashion recommendation with a link to buy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
